@@ -60,7 +60,7 @@ A análise sugere que fatores como remuneração mais baixa, oportunidades de cr
 ## Como Utilizar
 
 1.  Certifique-se de ter o Python 3.6+ instalado.
-2.  Instale as bibliotecas necessárias usando:
+2.  Instale as bibliotecas necessárias
 3.  Execute o *notebook* Jupyter `seu_notebook.ipynb` para reproduzir a análise.
 
 ## Trabalhos Futuros
