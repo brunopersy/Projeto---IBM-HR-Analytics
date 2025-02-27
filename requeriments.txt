@@ -1,0 +1,9 @@
+Conta google colab
+
+Instale as seguintes bibliotecas: 
+
+Use método !pip install 'biblioteca'
+Pandas (nativo no colab)
+Matplotlib (nativo no colab)
+Numpy (nativo no colab)
+hvplot(essa bliblioteca precisa ser instalada)
