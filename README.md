@@ -20,7 +20,7 @@ O conjunto de dados usado nesta análise é o `WA_Fn-UseC_-HR-Employee-Attrition
 
 ## Etapas da Análise
 
-A análise é conduzida em um *notebook* Jupyter, e as principais etapas são as seguintes:
+A análise é conduzida em um *notebook* colab, e as principais etapas são as seguintes:
 
 1.  **Carregamento de Dados e Configuração**: Carregamento das bibliotecas necessárias, configuração de estilos de gráficos, formatos numéricos e carregamento do conjunto de dados em um DataFrame do `pandas`.
 
@@ -75,3 +75,5 @@ Trabalhos adicionais poderiam incluir:
 ## Autor
 
 Bruno Eduardo p. da Silva
+tecnicobrunoind@gmail.com
+(89)981047422
