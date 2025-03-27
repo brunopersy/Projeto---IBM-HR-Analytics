@@ -74,6 +74,6 @@ Trabalhos adicionais poderiam incluir:
 
 ## Autor
 
-Bruno Eduardo p. da Silva
-tecnicobrunoind@gmail.com
-(89)981047422
+*   Bruno Eduardo p. da Silva
+*   tecnicobrunoind@gmail.com
+*   (89)981047422
